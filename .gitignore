@@ -1,0 +1,48 @@
+# Folders
+utilsZi/
+.ipynb_checkpoints/
+.empty/
+.vscode/
+Logs/**
+__*/
+data_back/**
+temp*/**
+plots/**
+trash/**
+
+# Data Folder
+data/spinoffs/**
+data/datavalidatie/**
+
+# Symbolic links
+data/Raw4**
+
+# Temps
+**/[Tt]est*
+**/[Tt]emp*
+**/[Tt]mp*
+
+# (Big) Plots
+**/*.html
+**/*.htm
+
+# Data Files
+*.json
+*.log
+*.gz
+*.txt
+*.tar.gz
+*.tar.bz2
+*.zip
+*.env
+*.ini
+
+# General files
+.DS_Store
+
+# Executables
+*.exe
+*.app
+
+# Identifires
+*Zone.Identifier
